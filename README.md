@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-🌱 I’m currently learning visualizatio
+🌱 I’m currently learning visualization
+
+
 
 
 # 💻 Tech Stack:
